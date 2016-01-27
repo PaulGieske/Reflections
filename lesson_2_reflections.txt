@@ -2,3 +2,7 @@ What happens when you init a repo? Why do you need it?
 You start up a new repo. Git knows to start tracking this directory.
 
 Add one file at a time?
+add files which are sensible for logical changes
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is an area where you can prepare which files to commit. Repository tracks the commits. Working directory contains the files currently working on. Value: more oversight
