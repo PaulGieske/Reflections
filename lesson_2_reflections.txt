@@ -1,0 +1,4 @@
+What happens when you init a repo? Why do you need it?
+You start up a new repo. Git knows to start tracking this directory.
+
+Add one file at a time?

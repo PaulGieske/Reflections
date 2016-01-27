@@ -1,0 +1,27 @@
+Benefits of version control:
+- frequently making back ups
+- debugging
+- eases forking
+- multiple users
+
+How did viewing the diff help to debug?
+Since the original file worked properly the problem must have been due to one of the changes
+
+How could havin access to history makes you a more efficient programmer in the long term?
+Have an overview of how the code 'grows'. Recall which necessary changes were not predicted.
+
+Pros and cons of manually choosing when to commit?
+pros - commit when it makes sense
+con - prone to user error
+
+Multi-File Commits. Why?
+Code often relies on files working together: i.e. a certain version of one file only works well together with a specific version of another file
+
+How to use git log and git diff to view the history of files?
+Obviously, no?
+
+Confidence making changes?
+Because you can always go back to a previous working version
+
+How will I use git?
+For now I will use git to backup my code easily.
