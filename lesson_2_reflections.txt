@@ -6,3 +6,19 @@ add files which are sensible for logical changes
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area is an area where you can prepare which files to commit. Repository tracks the commits. Working directory contains the files currently working on. Value: more oversight
+
+How use staging area to ensure 1 commit per logical change?
+Always use status to check and think through whether all the files on the stage are relevant for the logical change.
+
+When are branches useful?
+When forking, making different versions, testing specific features, developing new features.
+
+How do diagrams help you to visualize the branch structure?
+Diagrams are a visual representation of the branch structure
+
+What is the result of merge? Why represented like that?
+Merge combines all the changes on one branch with all the changes on another branch.
+
+What are the pros and cons of automatic merging?
+pro: less work, no human error
+con: some conflicts might not be found by the merge
