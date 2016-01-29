@@ -18,7 +18,7 @@ Multi-File Commits. Why?
 Code often relies on files working together: i.e. a certain version of one file only works well together with a specific version of another file
 
 How to use git log and git diff to view the history of files?
-Obviously, no?
+git log show a list of commits. git diff allows you to compare two commits.
 
 Confidence making changes?
 Because you can always go back to a previous working version
