@@ -8,3 +8,12 @@ Describe the differences between forks, clones, and branches. When would you use
 Forks: an alternative development trackt to take the project
 Clones: copy a project, branches and all
 Branches: an alternative development track within one project
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+The latest version of the remote is known.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Without any version-control tool one would have to manually keep track of changes and versions. Merging would be more difficult.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When you are working on an experimental feature. If multiple people are changing the code simultaneously, you could each work on your own branch, and merge the changes later.
